@@ -1,3 +1,3 @@
-This is initial commit for this project
+initial drupal for install
 
 Navid Hosseini
